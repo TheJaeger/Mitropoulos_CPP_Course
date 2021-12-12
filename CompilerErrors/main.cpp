@@ -2,7 +2,6 @@
 Demonstration of various compiler errors
 */
 
-
 #include <iostream>
 
 int main()
