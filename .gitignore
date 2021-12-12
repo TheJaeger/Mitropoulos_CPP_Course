@@ -1,0 +1,8 @@
+# Folders to ignore
+.vscode/
+
+# Files to ignore
+.DS_Store
+*.mk
+*.project
+*.txt
