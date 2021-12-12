@@ -1,5 +1,7 @@
 # Folders to ignore
 .vscode/
+*/Debug
+*/Release
 
 # Files to ignore
 .DS_Store
